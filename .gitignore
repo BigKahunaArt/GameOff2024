@@ -72,3 +72,18 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore Intermediate files
+[Bb]inaries/
+[Ii]ntermediate/
+[Ll]ogs/
+[Ss]aved/
+[Aa]ssets/
+
+# Do not upload assets
+*.wav
+*.png
+*.tga
+*.fbx
+*.jpg
+*.ico
