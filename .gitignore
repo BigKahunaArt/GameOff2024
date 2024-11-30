@@ -87,3 +87,5 @@ DerivedDataCache/*
 *.fbx
 *.jpg
 *.ico
+*.ttf
+*.otf
